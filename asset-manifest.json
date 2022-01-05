@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shinghuey27.github.io/csb-icecf/static/css/main.c042d1d0.chunk.css",
+    "main.js": "https://shinghuey27.github.io/csb-icecf/static/js/main.cd99d0ce.chunk.js",
+    "main.js.map": "https://shinghuey27.github.io/csb-icecf/static/js/main.cd99d0ce.chunk.js.map",
+    "runtime-main.js": "https://shinghuey27.github.io/csb-icecf/static/js/runtime-main.5dde0758.js",
+    "runtime-main.js.map": "https://shinghuey27.github.io/csb-icecf/static/js/runtime-main.5dde0758.js.map",
+    "static/js/2.8e555777.chunk.js": "https://shinghuey27.github.io/csb-icecf/static/js/2.8e555777.chunk.js",
+    "static/js/2.8e555777.chunk.js.map": "https://shinghuey27.github.io/csb-icecf/static/js/2.8e555777.chunk.js.map",
+    "index.html": "https://shinghuey27.github.io/csb-icecf/index.html",
+    "static/css/main.c042d1d0.chunk.css.map": "https://shinghuey27.github.io/csb-icecf/static/css/main.c042d1d0.chunk.css.map",
+    "static/js/2.8e555777.chunk.js.LICENSE.txt": "https://shinghuey27.github.io/csb-icecf/static/js/2.8e555777.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dde0758.js",
+    "static/js/2.8e555777.chunk.js",
+    "static/css/main.c042d1d0.chunk.css",
+    "static/js/main.cd99d0ce.chunk.js"
+  ]
+}
